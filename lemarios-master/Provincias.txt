@@ -1,0 +1,142 @@
+Acre
+Aguascalientes
+Alabama
+Alagoas
+Alaska
+Alberta
+Amapá
+Amazonas
+Arizona
+Arkansas
+Bahia
+Baja California
+Baja California Sur
+British Columbia
+California
+Campeche
+Ceará
+Chiapas
+Chihuahua
+Coahuila
+Colima
+Colorado
+Connecticut
+Delaware
+District Of Columbia
+Distrito Federal
+Distrito Federal
+Drenthe
+Durango
+Espírito Santo
+Flevoland
+Florida
+Friesland
+Gelderland
+Georgia
+Goiás
+Groningen
+Guanajuato
+Guerrero
+Hawaii
+Hidalgo
+Idaho
+Illinois
+Indiana
+Iowa
+Jalisco
+Kansas
+Kentucky
+Limburg
+Louisiana
+Maine
+Manitoba
+Maranhão
+Maryland
+Massachusetts
+Mato Grasso
+Mato Grosso do Sul
+Michigan
+Michoacán
+Minas Gerais
+Minnesota
+Mississippi
+Missouri
+Montana
+Morelos
+México
+Nayarit
+Nebraska
+Nevada
+New Brunswick
+New Hampshire
+New Jersey
+New Mexico
+New South Wales
+New York
+Newfoundland
+Noord-Brabant
+Noord-Holland
+North Carolina
+North Dakota
+Northern Territory
+Northwest Territories
+Nova Scotia
+Nuevo León
+Nunavut
+Oaxaca
+Ohio
+Oklahoma
+Ontario
+Oregon
+Overijssel
+Paraná
+Paraíba
+Pará
+Pennsylvania
+Pernambuco
+Piauí
+Prince Edward Island
+Puebla
+Quebec
+Queensland
+Querétaro
+Quintana Roo
+Rhode Island
+Rio Grande do Norte
+Rio Grande do Sul
+Rio de Janeiro
+Rondônia
+Roraima
+San Luis Potosi
+Santa Catarina
+Saskatchewan
+Sergipe
+Sinaloa
+Sonora
+South Australia
+South Carolina
+South Dakota
+São Paulo
+Tabasco
+Tamaulipas
+Tasmania
+Tennessee
+Texas
+Tlaxcala
+Tocantins
+Utah
+Utrecht
+Veracruz
+Vermont
+Victoria
+Virginia
+Washington
+West Virginia
+Western Australia
+Wisconsin
+Wyoming
+Yucatán
+Yukon
+Zacatecas
+Zeeland
+Zuid-Holland
