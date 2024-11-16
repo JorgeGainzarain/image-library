@@ -1,31 +1,24 @@
-# Libreria_Imagenes
+# Libreria de Imagenes
 
 ## Description
-
-Libreria_Imagenes is a Java-based image library application designed to manage and organize image galleries efficiently. It provides functionalities to save, load, and manipulate image galleries using a simple and intuitive interface.
+This project is a Java-based image library application designed to manage and organize image galleries efficiently. It provides functionalities to save, load, and manipulate image galleries using a simple and intuitive interface.
 
 ## Features
-
 - Create and manage multiple image galleries.
 - Save galleries in JSON format for easy access and modification.
 - Load existing galleries from storage.
 - User-friendly interface for managing images.
 
 ## Dependencies
-
 - Java Development Kit (JDK) 8 or higher
 - Gson library for JSON serialization and deserialization
 
 ## Installation
-
-1. Clone the repository:
-   `git clone https://github.com/yourusername/Libreria_Imagenes.git`
-2. Navigate to the project directory:
-   `cd Libreria_Imagenes`
+1. Clone the repository
+2. Navigate to the project directory
 3. Open the project in your preferred Java IDE (e.g., Eclipse, IntelliJ IDEA).
 
 ## Usage
-
 1. Build the project using your IDE's build tools.
 2. Run the application.
 3. Use the interface to create, save, and manage your image galleries.
